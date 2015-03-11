@@ -7,5 +7,6 @@ standard-app-packages
 autopublish
 insecure
 jquery
-bootstrap
 jquery-ui
+twbs:bootstrap
+dsyko:jquery-ui-touch-punch
